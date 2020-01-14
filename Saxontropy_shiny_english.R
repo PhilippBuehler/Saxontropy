@@ -310,7 +310,6 @@ server <- function(input, output,session) {
       RDF$Shape$Entropy=0
       RDF$Shape$Entropy=sapply(1:nrow(RDF$Shape),
                                 function(x) max(RDF$r[RDF$Data$Watershed==RDF$Shape$GRIDCODE[x]]))
-      write.table(as.data.frame(RDF$Shape), file="V:\\Entropie\\Manuskript\\Entropie_values.csv", sep=";", row.names=FALSE)
     }
   })
   
