@@ -14,7 +14,8 @@ This is a working example with modified data, which produces roughly the same re
 - Run the Saxontropy app by using the *Run App* button in RStudio
 
 ## Screenshot
-![Schreenshot 1](/Screenshot1.png?raw=true "Graphical user interface)
+>Graphical user interface
+![Schreenshot 1](/Screenshot1.png?raw=true "Graphical user interface")
 
-
-![Schreenshot 1](/Screenshot1.png?raw=true "Map")
+>Graphical user interface
+![Schreenshot 1](/Screenshot1.png?raw=true "Map of catchments of size 10-30 km² with their Probability of non-similarity")
