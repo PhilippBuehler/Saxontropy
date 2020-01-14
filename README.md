@@ -14,5 +14,7 @@ This is a working example with modified data, which produces roughly the same re
 - Run the Saxontropy app by using the *Run App* button in RStudio
 
 ## Screenshot
-![Alt text](/Screenshot1.png?raw=true "Optional Title")
-![Alt text](/Screenshot1.png?raw=true "Optional Title")
+![Schreenshot 1](/Screenshot1.png?raw=true "Graphical user interface)
+
+
+![Schreenshot 1](/Screenshot1.png?raw=true "Map")
