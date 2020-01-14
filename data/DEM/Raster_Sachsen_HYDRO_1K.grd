@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2019-07-10 09:28:51
+[georeference]
+nrows=290
+ncols=370
+xmin=-609500
+ymin=-549500
+xmax=-239500
+ymax=-259500
+projection=+proj=laea +lat_0=55 +lon_0=20 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=7
+maxvalue=1457
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=eu_dem

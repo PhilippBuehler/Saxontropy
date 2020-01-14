@@ -1,0 +1,11 @@
+10-30;TopoFactor;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;CG2_mean;length_main;riv_response;eff_evapo
+100-125;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;CG2_mean;length_main;riv_response
+125-150;TopoFactor;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG2_mean;length_main;riv_response
+150-200;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;CG2_mean;length_main;riv_response
+200-250;Hyps_Grad;Bifurcatio;CorineDevel;CG1_mean;CG2_mean;length_main;riv_response
+250-300;Hyps_Grad;Radian_0=S;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;riv_response
+30-50;TopoFactor;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;CG2_mean;length_main;riv_response
+300-350;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;length_main;riv_response
+350-400;Bifurcatio;Max_daily_prec;CG1_mean
+50-75;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG2_mean;length_main;riv_response
+75-100;Hyps_Grad;Radian_0=S;Circularity;Bifurcatio;CorineDevel;Max_daily_prec;CG1_mean;CG2_mean;length_main;riv_response
